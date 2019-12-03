@@ -4,10 +4,38 @@
 }
 
 .background-img {
-    width: 800px;
-    height: 900px;
-    margin: 10px auto;
+    width: 900px;
+    margin: 20px auto;
     padding: 30px 30px;
     border-radius: 5px;
     background: linear-gradient(to top left, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+}
+
+.part1 {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.part1 h5 {
+    font-size: 20px;
+    font-weight: 550;
+    margin-bottom: 20px;
+}
+
+.part1 h1 {
+    font-size: 92px;
+    letter-spacing: 2.4px;
+    color: #ffffff;
+    text-shadow: 0 2px black,
+    0 3px black,
+    0 4px black,
+    0 5px black,
+    0 7px black,
+    0 8px black,
+    0 9px black,
+    0 10px black,
+    0 11px black,
+    0 12px black,
+    0 13px 15px black;
 }
