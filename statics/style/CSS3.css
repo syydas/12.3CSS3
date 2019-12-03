@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.background-img {
+    width: 800px;
+    height: 900px;
+    margin: 10px auto;
+    padding: 30px 30px;
+    border-radius: 5px;
+    background: linear-gradient(to top left, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+}
