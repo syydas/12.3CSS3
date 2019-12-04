@@ -68,3 +68,27 @@ h5 {
     height: 27px;
     background: linear-gradient(to left bottom, transparent 50%, #efebf1, #d3d3d3, #a0a0a0 );
 }
+
+.box {
+    display: flex;
+}
+
+.flexbox {
+    width: 230px;
+    height: 150px;
+    margin: 20px;
+    border: 8px solid #ffffff;
+    background-size: cover;
+}
+
+.box1 {
+    background-image: url(../image/empire-state.png);
+}
+
+.box2 {
+    background-image: url(../image/midtown.png);
+}
+
+.box3 {
+    background-image: url(../image/liberty.png);
+}
