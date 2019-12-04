@@ -88,15 +88,15 @@ h5 {
 }
 
 .box1 {
-    background-image: url(../image/empire-state.png);
+    background-image: url('../image/empire-state.png');
 }
 
 .box2 {
-    background-image: url(../image/midtown.png);
+    background-image: url('../image/midtown.png');
 }
 
 .box3 {
-    background-image: url(../image/liberty.png);
+    background-image: url('../image/liberty.png');
 }
 
 .text-box {
